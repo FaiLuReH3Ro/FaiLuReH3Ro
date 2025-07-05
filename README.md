@@ -12,6 +12,7 @@
 
 <ul>
   <li><a href="https://github.com/FaiLuReH3Ro/HealthBankOne" target="_blank">Health Bank One Case Study</a></li>
+  <li>Comet Focus (Coming Soon)</li>
 </ul>
 
 <h2>🔗 My Links</h2>
