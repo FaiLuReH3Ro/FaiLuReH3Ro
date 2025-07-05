@@ -5,6 +5,7 @@
 <h2>🖥️ Software Developer Projects</h2>
 
 <h2>📱 UX Projects</h2>
+- [Health Bank One]()
 
 <h2>🔗 My Links</h2>
 
@@ -13,7 +14,7 @@
 [<img align="left" alt="LinkedIn Icon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram Icon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<!--[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor -->
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<!--[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/ -->
+[instagram]: https://www.instagram.com/philbear_/
+[linkedin]: https://www.linkedin.com/in/philip-nguyen-945485312/
