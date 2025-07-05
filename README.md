@@ -8,4 +8,4 @@
 
 <h2>🔗 My Links</h2>
 
-<a href="www.linkedin.com/in/philip-nguyen-945485312"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" /></a>
+<a href="www.linkedin.com/in/philip-nguyen-945485312" target="_blank"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn Icon" /></a>
