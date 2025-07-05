@@ -2,7 +2,11 @@
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
+<p>Coming Soon...</p>
+
 <h2>🖥️ Software Developer Projects</h2>
+
+<p>Coming Soon...</p>
 
 <h2>📱 UX Projects</h2>
 
