@@ -7,7 +7,7 @@
 <h2>📱 UX Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/FaiLuReH3Ro/HealthBankOne">Health Bank One</a></li>
+  <li><a href="https://github.com/FaiLuReH3Ro/HealthBankOne" target="_blank">Health Bank One</a></li>
 </ul>
 
 <h2>🔗 My Links</h2>
