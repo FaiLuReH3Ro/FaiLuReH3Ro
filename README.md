@@ -2,7 +2,7 @@
 
 <h2>About</h2>
 
-<p>I am a Data Analyst majoring in Information Technology & Management at UTD.</p>
+<p>I am a graduate student majoring in Information Technology & Management at UTD.</p>
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
