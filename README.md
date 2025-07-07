@@ -1,5 +1,7 @@
 <h1>Hello, I'm Philip 👋</h1> 
 
+<p>I am a Data Analyst</p>
+
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
 <p>Coming Soon...</p>
