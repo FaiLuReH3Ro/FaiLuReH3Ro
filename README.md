@@ -8,9 +8,11 @@
 
 <p>Coming Soon...</p>
 
+<!--
 <h2>🖥️ Software Engineer Projects</h2>
 
 <p>Coming Soon...</p>
+-->
 
 <h2>📱 UX Projects</h2>
 
