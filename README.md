@@ -8,6 +8,8 @@
 
 <p>Coming Soon...</p>
 
+<!--[IBM Data Analyst Capstone - Python](https://github.com/FaiLuReH3Ro/Outliers-Py)-->
+
 <!--
 <h2>🖥️ Software Engineer Projects</h2>
 
