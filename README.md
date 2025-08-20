@@ -6,10 +6,7 @@
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-<p>Coming Soon...</p>
-
-<!--[IBM Data Analyst Capstone - Python](https://github.com/FaiLuReH3Ro/Outliers-Py)-->
-
+* [IBM Data Analyst Capstone - Python](https://github.com/FaiLuReH3Ro/Outliers-Py) (Coming Soon)
 * [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
   * [Dashboard Website](https://dev-survey-dashboard.onrender.com/)
 <!--
