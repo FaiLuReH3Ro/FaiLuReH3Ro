@@ -18,7 +18,7 @@
 <h2>📱 UX Projects</h2>
 
 <ul>
-  <li><a href="https://github.com/FaiLuReH3Ro/HealthBankOne">Health Bank One Case Study</a></li>
+  <li><a href="https://github.com/FaiLuReH3Ro/health-bank-one">Health Bank One Case Study</a></li>
   <li><a href="https://github.com/FaiLuReH3Ro/comet-focus">Comet Focus</a></li>
 </ul>
 
