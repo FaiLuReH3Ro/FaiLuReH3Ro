@@ -1,6 +1,6 @@
 <h1>Hello, I'm Philip 👋 </h1> 
 
-<h2>About</h2>
+<h2>ℹ️ About</h2>
 
 I am a graduate student at The University of Texas at Dallas pursuing a Master’s in Information Technology and Management, specializing in data analysis. With skills in Python, SQL, and data visualization, I will transform data into actionable insights. Additionally, I have experience with UX Design and front-end development through my undergraduate studies.
 
