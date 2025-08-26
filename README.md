@@ -7,6 +7,7 @@
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
 * [IBM Data Analyst Capstone - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py) (Coming Soon)
+  * [Tableau Dashboard](https://public.tableau.com/app/profile/philip.nguyen3093/viz/SurveyResultsDashboard_17555489432820/CurrentTechnologyUsage)
 * [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
   * [Dashboard Website](https://dev-survey-dashboard.onrender.com/)
 <!--
