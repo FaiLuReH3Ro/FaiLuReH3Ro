@@ -33,4 +33,4 @@ I am a graduate student at The University of Texas at Dallas pursuing a Masterâ€
 <!--[twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/ -->
 [instagram]: https://www.instagram.com/philbear_/
-[linkedin]: https://www.linkedin.com/in/philip-nguyen-945485312/
+[linkedin]: https://www.linkedin.com/in/philip-n-nguyen/
