@@ -25,12 +25,7 @@ I am a graduate student at The University of Texas at Dallas pursuing a Masterâ€
 
 <h2>ðŸ”— My Links</h2>
 
-<!--[<img align="left" alt="YouTube Icon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter Icon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="LinkedIn Icon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram Icon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-n-nguyen/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/failureh3ro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/philbear_/)
 
-<!--[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/ -->
-[instagram]: https://www.instagram.com/philbear_/
-[linkedin]: https://www.linkedin.com/in/philip-n-nguyen/
