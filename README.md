@@ -2,7 +2,7 @@
 
 <h2>ℹ️ About</h2>
 
-I am a graduate student at The University of Texas at Dallas pursuing a Master’s in Information Technology and Management, specializing in data analysis. With skills in Python, SQL, and data visualization, I will transform data into actionable insights. Additionally, I have experience with UX Design and front-end development through my undergraduate studies.
+I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data scientist. I enjoy using Python, SQL, R, and visualization tools to explore datasets, uncover insights, and apply advanced statistics to real-world problems.
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
