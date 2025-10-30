@@ -2,10 +2,11 @@
 
 <h2>ℹ️ About</h2>
 
-I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data scientist. I enjoy using Python, SQL, R, and visualization tools to explore datasets, uncover insights, and apply advanced statistics to real-world problems.
+I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data scientist. I enjoy using Python, SQL, and visualization tools to explore datasets, uncover insights, and apply statistics to real-world problems.
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
+* Data Science Job Market Analysis - SQL (Coming Soon)
 * [IBM Data Analyst Capstone - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
   * [Tableau Dashboard](https://public.tableau.com/app/profile/philip.nguyen3093/viz/SurveyResultsDashboard_17555489432820/CurrentTechnologyUsage)
 * [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
