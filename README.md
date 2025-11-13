@@ -6,7 +6,7 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-* [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis?tab=readme-ov-file#data-science-job-market-analysis-using-sql)
+* [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
 * [IBM Data Analyst Capstone - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
   * [Tableau Dashboard](https://public.tableau.com/app/profile/philip.nguyen3093/viz/SurveyResultsDashboard_17555489432820/CurrentTechnologyUsage)
 * [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
