@@ -2,7 +2,7 @@
 
 <h2>ℹ️ About</h2>
 
-I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data scientist. I enjoy using Python, SQL, and visualization tools to explore datasets, uncover insights, and apply statistics to real-world problems.
+I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data engineer. I enjoy using Python, SQL, Excel, and visualization tools to explore datasets, uncover insights, and apply statistics to real-world problems.
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
