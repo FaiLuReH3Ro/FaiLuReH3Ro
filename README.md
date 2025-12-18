@@ -8,9 +8,9 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 * Power BI Project (Coming Soon)
 * U.S. Flight Delay Analysis - Excel (In Progress) <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
-* 📌 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
-* 📌 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
-* 📌 [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
+* 👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
+* 👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
+* 👉 [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
 
 <!--
 <h2>🖥️ Software Engineer Projects</h2>
@@ -20,8 +20,8 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>📱 UX Projects</h2>
 
-- 📌 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
-- 📌 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
+- 👉 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
+- 👉 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
 
 <h2>🔗 My Links</h2>
 
