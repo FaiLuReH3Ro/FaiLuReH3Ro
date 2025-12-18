@@ -10,7 +10,7 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 * U.S. Flight Delay Analysis - Excel (In Progress) <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
 * 👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
 * 👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
-* 👉 [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
+* 👉 [Stack Overflow Survey Dashboard - Plotly Dash](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
 
 <!--
 <h2>🖥️ Software Engineer Projects</h2>
