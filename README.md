@@ -8,11 +8,10 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 * Power BI Project (Coming Soon)
 * U.S. Flight Delay Analysis - Excel (In Progress) <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
-* [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
-* [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
-  * [Tableau Dashboard](https://public.tableau.com/app/profile/philip.nguyen3093/viz/SurveyResultsDashboard_17555489432820/CurrentTechnologyUsage)
-* [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
-  * [Dashboard Website](https://failureh3ro-developer-survey-results.share.connect.posit.cloud/)
+* 📌 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
+* 📌 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
+* 📌 [Stack Overflow Survey Dashboard](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
+
 <!--
 <h2>🖥️ Software Engineer Projects</h2>
 
@@ -21,10 +20,8 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>📱 UX Projects</h2>
 
-<ul>
-  <li><a href="https://github.com/FaiLuReH3Ro/health-bank-one">Health Bank One Case Study</a></li>
-  <li><a href="https://github.com/FaiLuReH3Ro/comet-focus">Comet Focus</a></li>
-</ul>
+- 📌 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
+- 📌 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
 
 <h2>🔗 My Links</h2>
 
