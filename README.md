@@ -6,7 +6,6 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-* Power BI Project (Coming Soon)
 * U.S. Flight Delay Analysis - Excel (In Progress) <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
 * 👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
 * 👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
