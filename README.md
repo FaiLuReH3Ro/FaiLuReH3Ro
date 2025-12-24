@@ -6,10 +6,25 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-* U.S. Flight Delay Analysis - Excel (In Progress) <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
-* 👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
-* 👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
-* 👉 [Stack Overflow Survey Dashboard - Plotly Dash](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
+### U.S. Flight Delay Analysis - Excel (In Progress)
+<!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
+--- 
+### Data Science Job Market Analysis - SQL
+
+This project aims to deliver data-driven insights for job seekers pursuing Data Scientist roles in Texas. By utilizing VS Code, PostgreSQL, and complex SQL queries, I analyzed a dataset of job postings from 2023 to identify high-demand skills, high salaries, and significant differences between various job details.
+
+👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
+
+---
+### Data Insights for Tech Skills - Python
+
+
+👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
+
+---
+### Stack Overflow Survey Dashboard - Plotly Dash
+
+👉 [Stack Overflow Survey Dashboard - Plotly Dash](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
 
 <!--
 <h2>🖥️ Software Engineer Projects</h2>
@@ -19,8 +34,13 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>📱 UX Projects</h2>
 
-- 👉 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
-- 👉 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
+### Health Bank One
+👉 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
+
+---
+### Comet Focus
+
+👉 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
 
 <h2>🔗 My Links</h2>
 
