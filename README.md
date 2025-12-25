@@ -10,11 +10,16 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 ### 🛠️ Technologies 
 
-![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
-![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=black)
-![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=black)
-![Static Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=black)
-![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=gray)
+
+![Static Badge](https://img.shields.io/badge/excel-217346?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge)
 
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
@@ -29,9 +34,10 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 This project aims to deliver data-driven insights for job seekers pursuing Data Scientist roles in Texas. By utilizing **VS Code**, **PostgreSQL**, and complex **SQL** queries, I analyzed a dataset of job postings from 2023 to identify high-demand skills, high salaries, and significant differences between various job details.
 
 
-> Check out the full project below
+>  👇 Click below to check out the full project 
 
-👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
+[![Static Badge](https://img.shields.io/badge/%20Data_Science_Job_Market_Analysis-teal?style=for-the-badge&logo=github&label=GitHub)](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
+
 
 ---
 ### 📊 Data Insights for Tech Skills - Python
@@ -40,9 +46,10 @@ This project aims to deliver data-driven insights for job seekers pursuing Data
 
 I utilized a subset of the 2024 Stack Overflow Developer Survey for this project to identify emerging in-demand tech skills. My approach involved using **data analysis** techniques in **Python** to identify current trends in programming skills, databases, and development tools.
 
-> Check out the full project below
+>  👇 Click below to check out the full project 
+ 
+[![Static Badge](https://img.shields.io/badge/Data_Insights_for_Tech_Skills-teal?style=for-the-badge&logo=github&label=GitHub)](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
 
-👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
 
 ---
 ### 💻 Stack Overflow Survey Dashboard - Plotly Dash
@@ -51,9 +58,9 @@ I utilized a subset of the 2024 Stack Overflow Developer Survey for this project
 
 I developed a dashboard from scratch using the **Dash** framework, utilizing data from the *Data Insights for Tech Skills* project. By using **Python** programming and the **Plotly** library, I developed an interactive **web application** that showcases charts illustrating current technology trends, future trends, and demographic information.
 
-> Check out information on the dashboard below
+>  👇 Click below to check out the dashboard
 
-👉 [Stack Overflow Survey Dashboard - Plotly Dash](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
+[![Static Badge](https://img.shields.io/badge/Stack_Overflow_Survey_Dashboard-teal?style=for-the-badge&logo=github&label=GitHub)](https://github.com/FaiLuReH3Ro/dev-survey-dashboard)
 
 <!--
 <h2>🖥️ Software Engineer Projects</h2>
@@ -71,9 +78,9 @@ I developed a dashboard from scratch using the **Dash** framework, utilizing dat
 
 This project aims to enhance the *Health Bank One* mobile app for women aged 40-65 who manage chronic conditions. My team decided to expand existing features and add new ones, including a Health Dashboard, Daily Health Log, Lab Reports, Trend Analysis, and Medication Tracker. The goal is to enhance user engagement by transforming the app from a medical record consolidation tool into a comprehensive health management platform. I analyzed the survey data using **Microsoft Excel**, utilizing **pivot tables** and **Power Query** to organize the information. To visualize the results, I created bar and pie charts. Additionally, I worked on the **Medication Tracker** feature and developed a prototype for it using **Figma**.
 
-> Check out the full project below
+>  👇 Click below to check out the full project 
 
-👉 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
+[![Static Badge](https://img.shields.io/badge/Health_Bank_One-teal?style=for-the-badge&logo=github&label=GitHub)](https://github.com/FaiLuReH3Ro/health-bank-one)
 
 ---
 ### ☄️ Comet Focus
@@ -82,10 +89,9 @@ This project aims to enhance the *Health Bank One* mobile app for women aged 40-
 
 The goal of this project is to design a mobile app for students at The University of Texas at Dallas that addresses procrastination and helps them complete their schoolwork. I researched academic procrastination by utilizing **UX research methods** to design wireframes for a mobile app that tackles this issue. My process included **secondary research**, **interviews**, and a **competitive analysis** to gather valuable insights. After completing my research, I compiled the findings into a detailed report that included an **empathy map**, a **design persona**, and a **future-state user journey**.
 
-> Check out the full project below
+>  👇 Click below to check out the full project 
 
-👉 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
-
+[![Static Badge](https://img.shields.io/badge/Comet_Focus-teal?style=for-the-badge&logo=github&label=GitHub)](https://github.com/FaiLuReH3Ro/comet-focus)
 
 
 
