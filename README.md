@@ -2,7 +2,20 @@
 
 <h2>ℹ️ About</h2>
 
-I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data engineer. I enjoy using Python, SQL, Excel, and visualization tools to explore datasets, uncover insights, and apply statistics to real-world problems.
+I’m a Master’s student at The University of Texas at Dallas, specializing in data analysis and aspiring to become a data engineer. I enjoy using Python, SQL, Excel, and visualization tools to explore datasets, uncover insights, and apply statistics to real-world problems. 
+
+### 🔗 DataCamp Portfolio
+
+[![Static Badge](https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&logoColor=black&labelColor=03EF62)](https://www.datacamp.com/portfolio/failureh3ro)
+
+### 🛠️ Technologies 
+
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=black)
+![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=black)
+![Static Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=black)
+![Static Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black)
+
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
@@ -73,13 +86,9 @@ The goal of this project is to design a mobile app for students at The Universit
 
 👉 [Comet Focus](https://github.com/FaiLuReH3Ro/comet-focus)
 
-<h2>🔗 My Links</h2>
-
-![Static Badge](https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&logoColor=black&labelColor=03EF62&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Ffailureh3ro)
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-n-nguyen/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/failureh3ro)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/philbear_/)
+
+
 
