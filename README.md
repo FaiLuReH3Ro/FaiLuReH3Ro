@@ -6,10 +6,10 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-### U.S. Flight Delay Analysis - Excel (In Progress)
+### ✈️ U.S. Flight Delay Analysis - Excel (In Progress)
 <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
 --- 
-### Data Science Job Market Analysis - SQL
+### 💼 Data Science Job Market Analysis - SQL
 
 ![Image of an ER diagram](assets/er_diagram.png)
 
@@ -21,7 +21,7 @@ This project aims to deliver data-driven insights for job seekers pursuing Data
 👉 [Data Science Job Market Analysis - SQL](https://github.com/FaiLuReH3Ro/sql-data-science-job-analysis)
 
 ---
-### Data Insights for Tech Skills - Python
+### 📊 Data Insights for Tech Skills - Python
 
 ![Image of an executive summary slide deck](assets/executive_summary.PNG)
 
@@ -32,7 +32,7 @@ I utilized a subset of the 2024 Stack Overflow Developer Survey for this project
 👉 [Data Insights for Tech Skills - Python](https://github.com/FaiLuReH3Ro/ibm-da-capstone-py)
 
 ---
-### Stack Overflow Survey Dashboard - Plotly Dash
+### 💻 Stack Overflow Survey Dashboard - Plotly Dash
 
 ![Image of a dashboard created using Plotly Dash](assets/dash_dashboard.PNG)
 
@@ -52,7 +52,7 @@ I developed a dashboard from scratch using the **Dash** framework, utilizing dat
 
 <h2>📱 UX Projects</h2>
 
-### Health Bank One
+### 🤝 Health Bank One
 
 ![Image of a slide deck showcasing the medication tracker](assets/medication_tracker.png)
 
@@ -63,7 +63,7 @@ This project aims to enhance the *Health Bank One* mobile app for women aged 40-
 👉 [Health Bank One Case Study](https://github.com/FaiLuReH3Ro/health-bank-one)
 
 ---
-### Comet Focus
+### ☄️ Comet Focus
 
 ![Image of a slide deck showcasing the pomodoro timer feature](assets/pomodoro_timer.png)
 
