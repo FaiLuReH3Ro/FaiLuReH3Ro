@@ -75,6 +75,10 @@ The goal of this project is to design a mobile app for students at The Universit
 
 <h2>🔗 My Links</h2>
 
+![Static Badge](https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&logoColor=black&labelColor=03EF62&link=https%3A%2F%2Fwww.datacamp.com%2Fportfolio%2Ffailureh3ro)
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-n-nguyen/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/failureh3ro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/philbear_/)
