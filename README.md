@@ -25,6 +25,9 @@ I’m a Master’s student at The University of Texas at Dallas, specializing in
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
 ### ✈️ U.S. Flight Delay & Cancellation Analysis - Excel (In Progress)
+
+<!-- https://github.com/user-attachments/assets/ff167f51-eb34-4d45-b3df-7a9c0fa1fc9e-->
+
 <!--[U.S. Flight Delay Analysis - Excel](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)--> 
 --- 
 ### 💼 Data Science Job Market Analysis - SQL
