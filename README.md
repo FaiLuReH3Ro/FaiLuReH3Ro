@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/ff167f51-eb34-4d45-b3df-7a9c0fa1fc9e
 
 This project analyzes U.S. flight delay and cancellation data from 2019 to 2023 to evaluate airline and airport performance and uncover patterns in travel disruptions. The focus of the analysis is to identify trends in delays over time, the primary causes of delays and cancellations, and differences in on-time performance across various carriers and airports.
 
-Using **Excel** features such as **ETL** with **Power Query**, data modeling with **Power Pivot**, and tools like **PivotTables** and **PivotCharts**, I create an interactive **dashboard**. This dashboard allows users to explore trends, compare performance, and identify actionable insights that can support data-driven operational improvements.
+Using **Excel** features such as **ETL** with **Power Query**, data modeling with **Power Pivot**, and tools like **PivotTables** and **PivotCharts**, I created an interactive **dashboard**. This dashboard allows users to explore trends, compare performance, and identify actionable insights that can support data-driven operational improvements.
 
 >  👇 Click below to check out the full project
 
