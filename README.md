@@ -37,7 +37,7 @@ Using **Excel** features such as **ETL** with **Power Query**, data modeling wit
 
 >  👇 Click below to check out the full project
 
-[![Static Badge](https://img.shields.io/badge/U.S._Flight_Delay_analysis-teal?style=for-the-badge&logo=github&label=github)](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)
+[![Static Badge](https://img.shields.io/badge/U.S._Aviation_performance_analysis-teal?style=for-the-badge&logo=github&label=github)](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)
 
 --- 
 ### 💼 Data Science Job Market Analysis - SQL
