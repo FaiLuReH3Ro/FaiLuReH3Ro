@@ -25,7 +25,7 @@ I'm a graduate student at The University of Texas at Dallas pursuing a Master's 
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-### ✈️ U.S. Flight Delay & Cancellation Analysis - Excel 
+### ✈️U.S. Aviation Performance Analysis - Excel 
 
 ![Static Badge](https://img.shields.io/badge/excel-217346?style=for-the-badge)
 
