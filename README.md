@@ -25,7 +25,7 @@ I'm a graduate student at The University of Texas at Dallas pursuing a Master's 
 
 <h2>👨🏻‍💻 Data Analysis/Science Projects</h2>
 
-### ✈️U.S. Aviation Performance Analysis - Excel 
+### ✈️U.S. Flight Performance Analysis - Excel 
 
 ![Static Badge](https://img.shields.io/badge/excel-217346?style=for-the-badge)
 
@@ -37,7 +37,7 @@ Using **Excel** features such as **ETL** with **Power Query**, data modeling wit
 
 >  👇 Click below to check out the full project
 
-[![Static Badge](https://img.shields.io/badge/U.S._Aviation_performance_analysis-teal?style=for-the-badge&logo=github&label=github)](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)
+[![Static Badge](https://img.shields.io/badge/U.S._Flight_performance_analysis-teal?style=for-the-badge&logo=github&label=github)](https://github.com/FaiLuReH3Ro/excel-flight-delay-analysis)
 
 --- 
 ### 💼 Data Science Job Market Analysis - SQL
