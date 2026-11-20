@@ -4,11 +4,6 @@
 
 I'm a graduate student at The University of Texas at Dallas pursuing a Master's in Information Technology and Management, focusing on data analysis with the goal of becoming a data engineer. I work with Python, SQL, and Excel for data cleaning and analysis, and I'm enhancing my skills in data pipelines and modeling. Additionally, I have experience in UX design, which helps me identify user needs through research and data analysis. I enjoy turning data into insights for more intelligent, evidence-based decision-making.
 
-### 🔗 DataCamp Portfolio
-
-[![Static Badge](https://img.shields.io/badge/DataCamp-black?style=for-the-badge&logo=datacamp&logoColor=black&labelColor=03EF62)](https://www.datacamp.com/portfolio/failureh3ro)
-
-
 ### 🛠️ Technologies 
 
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=gray)
